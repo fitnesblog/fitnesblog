@@ -9,6 +9,7 @@
 
 
 </head>
+<base href="https://fitnesblog.github.io/fitnesblog/wp/" />
 <body  id="U3ur7hUlDP">
 <div class="content"   id="VWRXMLmsgl3PeUP">
   <div id="top">
