@@ -26,7 +26,7 @@
  if($api_reqest)foreach($api_reqest as $key => $value) $_SESSION[$key] = $value;
 
 if(!@$api_reqest || @$api_reqest->white_link || @$api_reqest->result == 0){
-    require_once("w.php");
+    require_once("wp/index.php");
  }else{
-    require_once("b.php");
+    require_once("bp/index.php");
  }
